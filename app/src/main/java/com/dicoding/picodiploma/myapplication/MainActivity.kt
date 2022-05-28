@@ -12,6 +12,5 @@ class MainActivity : AppCompatActivity() {
         // commit 2
         // commit 2.2
         // commit 3
-        agshrshrhrh
     }
 }
